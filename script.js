@@ -59,10 +59,10 @@ function generaFrasi(opzione) {
     var risultato = cifra + (input12 * 100)
 
 if (opzione === 1) {
-    frasiGenerare = "Il sottoscritto KillerWord in quanto officiante abilitato dallo stato di Metropolis, dichiara " + input1 + " e " + input2 + " civilmente uniti ai sensi della legge sulle unioni civili del 05/10/2020" + ".";
+    frasiGenerare = "Il sottoscritto KillerWord in quanto officiante abilitato dallo stato di Metropolis, dichiara: " + input1 + " e " + input2 + " civilmente uniti ai sensi della legge sulle unioni civili del 05/10/2020" + ".";
     frasiGenerare2 = "/marry marry " + input1 + " " + input2;
     frasiGenerare4 = "/Unione civile " + input1 + " " + input2;
-    frasiGenerare5 = "Il sottoscritto, in quanto officiante abilitato dallo stato di Metropolis, dichiara " + input1 + " e " + input2 + " civilmente uniti in data " + input3 + " ai sensi della legge sulle unioni civili del 05/10/2020" + ".";
+    frasiGenerare5 = "Il sottoscritto, in quanto officiante abilitato dallo stato di Metropolis, dichiara: " + input1 + " e " + input2 + " civilmente uniti in data " + input3 + " ai sensi della legge sulle unioni civili del 05/10/2020" + ".";
     frasiGenerare6 = "Si attesta inoltre, la presenza all'atto dell'unione, dei testimoni " + input4 + " e " + input5 + ".";
     frasiGenerare7 = "Si certifica inoltre che entrambe le parti non sono coinvolte in altre unioni civili riportate negli archivi comunali e si provvede immediatamente a registrare l'atto nei suddetti registri."
 
